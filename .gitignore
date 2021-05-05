@@ -37,4 +37,6 @@ reference/*
 *.vrb
 *.bak
 *.sav
-
+*.bcf
+*.fdb_latexmk
+*.run.xml

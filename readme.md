@@ -2,6 +2,7 @@
 
 Short Description. E.g. I build a portfolio of assets from the Chinese stock market that have expected return of 10% every month and minumum variance
 
+---
 
 ## Dependencies & How to Run
 * Python 3.x
@@ -35,27 +36,34 @@ Images can be inserted in the document as below
 
 ## Project Structre
 
+```
+MyProject
+│   readme.md
+│   report.pdf    
+│
+└───py
+│   │   download.py
+│   │   funcs.py
+│   │   demo.py
+│
+└───report
+│   │   report_draft.tex
+│   │   report_draft.docx
+│   
+└───data
+│   │   example_prices.csv
+│   
+└───img
+	│   efficientFront.png
+    │   
+```
 
-+-- _img
-|   +-- plot1.png
-|   +-- plot2.png
-+-- _py
-|   +-- download.py
-|   +-- funcs.py
-|   +-- demo.py
-+-- _data
-|   +-- data.csv
-+-- _report
-|   +-- report_draft.tex
-|   +-- report_draft.docx
-+-- report.pdf
-+-- readme.md
 
 
 Main point of the computations
 
 
-
+---
 
 ## Summary / Reflection
 What have I learned?
@@ -70,7 +78,7 @@ Example of table:
 
 
 
-
+---
 
 
 ## Reference
