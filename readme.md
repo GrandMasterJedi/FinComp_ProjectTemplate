@@ -1,13 +1,15 @@
-# Title of Project
+# Risk Parity Portfolio
 
-Short Description. E.g. I build a portfolio of assets from the Chinese stock market that have expected return of 10% every month and minumum variance
+we derive an optimal portfolio where each asset contributes equally to te risk of the portfolio
 
+Author: XX
 ---
 
 ## Dependencies & How to Run
 * Python 3.x
 * NumPy
 * Pandas
+* 
 
 Run the demo as the following:
 ```sh
