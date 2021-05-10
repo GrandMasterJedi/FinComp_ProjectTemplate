@@ -1,8 +1,9 @@
-# Risk Parity Portfolio
+# Insert Title
 
-we derive an optimal portfolio where each asset contributes equally to te risk of the portfolio
+Short description: e.g. We derive an optimal portfolio where each asset contributes equally to te risk of the portfolio
 
 Author: XX
+
 ---
 
 ## Dependencies & How to Run
